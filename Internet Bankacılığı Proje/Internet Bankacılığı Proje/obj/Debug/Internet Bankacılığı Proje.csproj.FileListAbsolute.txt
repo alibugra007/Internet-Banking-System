@@ -1,0 +1,12 @@
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\bin\Debug\Internet Bankacılığı Proje.exe.config
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\bin\Debug\Internet Bankacılığı Proje.exe
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\bin\Debug\Internet Bankacılığı Proje.pdb
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet Bankacılığı Proje.csprojAssemblyReference.cache
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.Form1.resources
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.Properties.Resources.resources
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet Bankacılığı Proje.csproj.GenerateResource.cache
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet Bankacılığı Proje.csproj.CoreCompileInputs.cache
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet Bankacılığı Proje.exe
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet Bankacılığı Proje.pdb
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.OnayEkran.resources
+C:\Users\istan\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.AnaEkran.resources
