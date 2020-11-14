@@ -10,26 +10,16 @@ using System.Windows.Forms;
 
 namespace Internet_Bankacılığı_Proje
 {
-    public partial class Form1 : Form
+    public partial class OnayEkran : Form
     {
-        public Form1()
+        public OnayEkran()
         {
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void OnayEkran_Load(object sender, EventArgs e)
         {
 
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-          
         }
     }
 }
