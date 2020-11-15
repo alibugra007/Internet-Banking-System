@@ -29,6 +29,7 @@ namespace Internet_Bankacılığı_Proje
 
         private void aadamToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            
             YeniHesapAc yeniHesapAc = new YeniHesapAc();
             yeniHesapAc.MdiParent = this;
             yeniHesapAc.FormBorderStyle = FormBorderStyle.None;
