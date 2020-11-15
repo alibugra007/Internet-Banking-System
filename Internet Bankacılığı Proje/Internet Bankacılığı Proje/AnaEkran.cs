@@ -47,11 +47,6 @@ namespace Internet_Bankacılığı_Proje
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
         private void değilsnToolStripMenuItem_Click(object sender, EventArgs e)
         {
             HesabiSil hesabiSil = new HesabiSil();
@@ -60,6 +55,11 @@ namespace Internet_Bankacılığı_Proje
             panel2.Controls.Add(hesabiSil);
             hesabiSil.Show();
 
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
