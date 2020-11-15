@@ -64,6 +64,12 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="HesabiSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HesabiSil.Designer.cs">
+      <DependentUpon>HesabiSil.cs</DependentUpon>
+    </Compile>
     <Compile Include="OnayEkran.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,11 +78,20 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="YeniHesapAc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniHesapAc.Designer.cs">
+      <DependentUpon>YeniHesapAc.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="AnaEkran.resx">
       <DependentUpon>AnaEkran.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HesabiSil.resx">
+      <DependentUpon>HesabiSil.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="OnayEkran.resx">
       <DependentUpon>OnayEkran.cs</DependentUpon>
@@ -91,6 +106,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="YeniHesapAc.resx">
+      <DependentUpon>YeniHesapAc.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

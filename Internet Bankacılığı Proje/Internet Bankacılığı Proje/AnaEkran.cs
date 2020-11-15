@@ -17,22 +17,31 @@ namespace Internet_Bankacılığı_Proje
             InitializeComponent();
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        private void button9_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
 
         }
 
-        private void tabPage1_Click(object sender, EventArgs e)
+        private void aadamToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void tabPage5_Click(object sender, EventArgs e)
-        {
-
+            YeniHesapAc yeniHesapAc = new YeniHesapAc();
+            yeniHesapAc.MdiParent = this;
+            yeniHesapAc.FormBorderStyle = FormBorderStyle.None;
+            panel2.Controls.Add(yeniHesapAc);
+            yeniHesapAc.Show();
         }
 
         private void AnaEkran_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }
@@ -42,9 +51,14 @@ namespace Internet_Bankacılığı_Proje
             this.Close();
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void değilsnToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.Close();
+            HesabiSil hesabiSil = new HesabiSil();
+            hesabiSil.MdiParent = this;
+            hesabiSil.FormBorderStyle = FormBorderStyle.None;
+            panel2.Controls.Add(hesabiSil);
+            hesabiSil.Show();
+
         }
     }
 }
