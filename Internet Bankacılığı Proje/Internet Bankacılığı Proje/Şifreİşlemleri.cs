@@ -16,5 +16,10 @@ namespace Internet_Bankacılığı_Proje
         {
             InitializeComponent();
         }
+
+        private void Şifreİşlemleri_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

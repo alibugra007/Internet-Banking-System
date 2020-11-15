@@ -24,3 +24,8 @@ C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı
 C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.AnaEkran.resources
 C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.YeniHesapAc.resources
 C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.HesabiSil.resources
+C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.Şifreİşlemleri.resources
+C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.HesabımıGüncelle.resources
+C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.VadeliHesapBaşvuru.resources
+C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.VadeliHesaplar.resources
+C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.VadesizHesaplar.resources

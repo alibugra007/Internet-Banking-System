@@ -122,24 +122,28 @@ namespace Internet_Bankacılığı_Proje
             this.hToolStripMenuItem.Name = "hToolStripMenuItem";
             this.hToolStripMenuItem.Size = new System.Drawing.Size(293, 34);
             this.hToolStripMenuItem.Text = "Hesabımı Güncelle";
+            this.hToolStripMenuItem.Click += new System.EventHandler(this.hToolStripMenuItem_Click);
             // 
             // vadeliHesapBaşvuruToolStripMenuItem
             // 
             this.vadeliHesapBaşvuruToolStripMenuItem.Name = "vadeliHesapBaşvuruToolStripMenuItem";
             this.vadeliHesapBaşvuruToolStripMenuItem.Size = new System.Drawing.Size(293, 34);
             this.vadeliHesapBaşvuruToolStripMenuItem.Text = "Vadeli Hesap Başvuru";
+            this.vadeliHesapBaşvuruToolStripMenuItem.Click += new System.EventHandler(this.vadeliHesapBaşvuruToolStripMenuItem_Click);
             // 
             // vadesizHesaplarToolStripMenuItem
             // 
             this.vadesizHesaplarToolStripMenuItem.Name = "vadesizHesaplarToolStripMenuItem";
             this.vadesizHesaplarToolStripMenuItem.Size = new System.Drawing.Size(293, 34);
             this.vadesizHesaplarToolStripMenuItem.Text = "Vadesiz Hesaplar";
+            this.vadesizHesaplarToolStripMenuItem.Click += new System.EventHandler(this.vadesizHesaplarToolStripMenuItem_Click);
             // 
             // vadeliHesaplarToolStripMenuItem
             // 
             this.vadeliHesaplarToolStripMenuItem.Name = "vadeliHesaplarToolStripMenuItem";
             this.vadeliHesaplarToolStripMenuItem.Size = new System.Drawing.Size(293, 34);
             this.vadeliHesaplarToolStripMenuItem.Text = "Vadeli Hesaplar";
+            this.vadeliHesaplarToolStripMenuItem.Click += new System.EventHandler(this.vadeliHesaplarToolStripMenuItem_Click);
             // 
             // OdemelerMenu
             // 
@@ -157,12 +161,14 @@ namespace Internet_Bankacılığı_Proje
             this.krediKartıBorçToolStripMenuItem.Name = "krediKartıBorçToolStripMenuItem";
             this.krediKartıBorçToolStripMenuItem.Size = new System.Drawing.Size(280, 34);
             this.krediKartıBorçToolStripMenuItem.Text = "Kredi Kartı Borç";
+            this.krediKartıBorçToolStripMenuItem.Click += new System.EventHandler(this.krediKartıBorçToolStripMenuItem_Click);
             // 
             // krediKartıÖdemesiToolStripMenuItem
             // 
             this.krediKartıÖdemesiToolStripMenuItem.Name = "krediKartıÖdemesiToolStripMenuItem";
             this.krediKartıÖdemesiToolStripMenuItem.Size = new System.Drawing.Size(280, 34);
             this.krediKartıÖdemesiToolStripMenuItem.Text = "Kredi Kartı Ödemesi";
+            this.krediKartıÖdemesiToolStripMenuItem.Click += new System.EventHandler(this.krediKartıÖdemesiToolStripMenuItem_Click);
             // 
             // KredilerMenu
             // 
@@ -180,12 +186,14 @@ namespace Internet_Bankacılığı_Proje
             this.krediHesaplarımToolStripMenuItem.Name = "krediHesaplarımToolStripMenuItem";
             this.krediHesaplarımToolStripMenuItem.Size = new System.Drawing.Size(295, 34);
             this.krediHesaplarımToolStripMenuItem.Text = "Kredi Hesaplarım";
+            this.krediHesaplarımToolStripMenuItem.Click += new System.EventHandler(this.krediHesaplarımToolStripMenuItem_Click);
             // 
             // krediFiyatVeOranlarToolStripMenuItem
             // 
             this.krediFiyatVeOranlarToolStripMenuItem.Name = "krediFiyatVeOranlarToolStripMenuItem";
             this.krediFiyatVeOranlarToolStripMenuItem.Size = new System.Drawing.Size(295, 34);
             this.krediFiyatVeOranlarToolStripMenuItem.Text = "Kredi Fiyat ve Oranlar";
+            this.krediFiyatVeOranlarToolStripMenuItem.Click += new System.EventHandler(this.krediFiyatVeOranlarToolStripMenuItem_Click);
             // 
             // ParaTransferMenu
             // 
@@ -203,12 +211,14 @@ namespace Internet_Bankacılığı_Proje
             this.hesaplarArasıParaTransferiToolStripMenuItem.Name = "hesaplarArasıParaTransferiToolStripMenuItem";
             this.hesaplarArasıParaTransferiToolStripMenuItem.Size = new System.Drawing.Size(359, 34);
             this.hesaplarArasıParaTransferiToolStripMenuItem.Text = "Hesaplar Arası Para Transferi";
+            this.hesaplarArasıParaTransferiToolStripMenuItem.Click += new System.EventHandler(this.hesaplarArasıParaTransferiToolStripMenuItem_Click);
             // 
             // başkaHesabaHavaleEFTToolStripMenuItem
             // 
             this.başkaHesabaHavaleEFTToolStripMenuItem.Name = "başkaHesabaHavaleEFTToolStripMenuItem";
             this.başkaHesabaHavaleEFTToolStripMenuItem.Size = new System.Drawing.Size(359, 34);
             this.başkaHesabaHavaleEFTToolStripMenuItem.Text = "Başka Hesaba Havale/EFT";
+            this.başkaHesabaHavaleEFTToolStripMenuItem.Click += new System.EventHandler(this.başkaHesabaHavaleEFTToolStripMenuItem_Click);
             // 
             // YatirimMenu
             // 
@@ -238,18 +248,21 @@ namespace Internet_Bankacılığı_Proje
             this.krediKartıGöstermeToolStripMenuItem.Name = "krediKartıGöstermeToolStripMenuItem";
             this.krediKartıGöstermeToolStripMenuItem.Size = new System.Drawing.Size(237, 34);
             this.krediKartıGöstermeToolStripMenuItem.Text = "Kredi Kartlarım";
+            this.krediKartıGöstermeToolStripMenuItem.Click += new System.EventHandler(this.krediKartıGöstermeToolStripMenuItem_Click);
             // 
             // krediKartıBorçToolStripMenuItem1
             // 
             this.krediKartıBorçToolStripMenuItem1.Name = "krediKartıBorçToolStripMenuItem1";
             this.krediKartıBorçToolStripMenuItem1.Size = new System.Drawing.Size(239, 34);
             this.krediKartıBorçToolStripMenuItem1.Text = "Kredi Kartı Borç";
+            this.krediKartıBorçToolStripMenuItem1.Click += new System.EventHandler(this.krediKartıBorçToolStripMenuItem1_Click);
             // 
             // krediKartıLimitToolStripMenuItem
             // 
             this.krediKartıLimitToolStripMenuItem.Name = "krediKartıLimitToolStripMenuItem";
             this.krediKartıLimitToolStripMenuItem.Size = new System.Drawing.Size(239, 34);
             this.krediKartıLimitToolStripMenuItem.Text = "Kredi Kartı Limit";
+            this.krediKartıLimitToolStripMenuItem.Click += new System.EventHandler(this.krediKartıLimitToolStripMenuItem_Click);
             // 
             // bankaKartlarıToolStripMenuItem
             // 
@@ -265,18 +278,21 @@ namespace Internet_Bankacılığı_Proje
             this.bankaKartıGöstermeToolStripMenuItem.Name = "bankaKartıGöstermeToolStripMenuItem";
             this.bankaKartıGöstermeToolStripMenuItem.Size = new System.Drawing.Size(295, 34);
             this.bankaKartıGöstermeToolStripMenuItem.Text = "Banka Kartı Gösterme";
+            this.bankaKartıGöstermeToolStripMenuItem.Click += new System.EventHandler(this.bankaKartıGöstermeToolStripMenuItem_Click);
             // 
             // bankaKartıBakyieToolStripMenuItem
             // 
             this.bankaKartıBakyieToolStripMenuItem.Name = "bankaKartıBakyieToolStripMenuItem";
             this.bankaKartıBakyieToolStripMenuItem.Size = new System.Drawing.Size(295, 34);
             this.bankaKartıBakyieToolStripMenuItem.Text = "Banka Kartı Bakiye";
+            this.bankaKartıBakyieToolStripMenuItem.Click += new System.EventHandler(this.bankaKartıBakyieToolStripMenuItem_Click);
             // 
             // şifreİşlemleriToolStripMenuItem
             // 
             this.şifreİşlemleriToolStripMenuItem.Name = "şifreİşlemleriToolStripMenuItem";
             this.şifreİşlemleriToolStripMenuItem.Size = new System.Drawing.Size(237, 34);
             this.şifreİşlemleriToolStripMenuItem.Text = "Şifre İşlemleri";
+            this.şifreİşlemleriToolStripMenuItem.Click += new System.EventHandler(this.şifreİşlemleriToolStripMenuItem_Click);
             // 
             // KayitMenu
             // 
@@ -299,7 +315,7 @@ namespace Internet_Bankacılığı_Proje
             this.panel1.BackColor = System.Drawing.Color.Black;
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(297, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(870, 125);
             this.panel1.TabIndex = 4;
@@ -309,7 +325,7 @@ namespace Internet_Bankacılığı_Proje
             this.panel2.BackColor = System.Drawing.Color.GhostWhite;
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(297, 125);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel2.Margin = new System.Windows.Forms.Padding(2);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(870, 759);
             this.panel2.TabIndex = 5;
@@ -317,7 +333,7 @@ namespace Internet_Bankacılığı_Proje
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.Red;
-            this.button1.Location = new System.Drawing.Point(0, 811);
+            this.button1.Location = new System.Drawing.Point(0, 790);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(163, 73);
             this.button1.TabIndex = 7;
@@ -337,7 +353,7 @@ namespace Internet_Bankacılığı_Proje
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "AnaEkran";

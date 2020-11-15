@@ -183,6 +183,9 @@
     <EmbeddedResource Include="HesabiSil.resx">
       <DependentUpon>HesabiSil.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="HesabımıGüncelle.resx">
+      <DependentUpon>HesabımıGüncelle.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="OnayEkran.resx">
       <DependentUpon>OnayEkran.cs</DependentUpon>
     </EmbeddedResource>
@@ -196,8 +199,20 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="VadeliHesapBaşvuru.resx">
+      <DependentUpon>VadeliHesapBaşvuru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VadeliHesaplar.resx">
+      <DependentUpon>VadeliHesaplar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VadesizHesaplar.resx">
+      <DependentUpon>VadesizHesaplar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="YeniHesapAc.resx">
       <DependentUpon>YeniHesapAc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Şifreİşlemleri.resx">
+      <DependentUpon>Şifreİşlemleri.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
