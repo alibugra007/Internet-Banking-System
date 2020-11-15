@@ -29,3 +29,4 @@ C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı
 C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.VadeliHesapBaşvuru.resources
 C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.VadeliHesaplar.resources
 C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.VadesizHesaplar.resources
+C:\Users\patat\Documents\GitHub\Internet-Banking-System\Internet Bankacılığı Proje\Internet Bankacılığı Proje\obj\Debug\Internet_Bankacılığı_Proje.KrediKartıBorç.resources
