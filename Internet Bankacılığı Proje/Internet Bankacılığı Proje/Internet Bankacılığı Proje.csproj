@@ -186,6 +186,9 @@
     <EmbeddedResource Include="HesabımıGüncelle.resx">
       <DependentUpon>HesabımıGüncelle.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="KrediKartıBorç.resx">
+      <DependentUpon>KrediKartıBorç.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="OnayEkran.resx">
       <DependentUpon>OnayEkran.cs</DependentUpon>
     </EmbeddedResource>
